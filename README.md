@@ -8,6 +8,17 @@ Welcome to the INC Tech Programmers Directory repository! This repository is des
 
 The purpose of this repository is to centralize learning materials and resources beneficial to INC members interested in technology and development. Here, you will find a curated list of links to various repositories, tutorials, and educational resources. These resources are intended to assist you in expanding your knowledge and proficiency in programming and related technologies.
 
+## Roles
+
+### Contributor
+As a Contributor, you can add new resources, tutorials, and links to the repository. Your role is to enhance the repository's content, making it a richer and more valuable resource for everyone.
+
+### Developer
+As a Developer, you focus on creating and maintaining projects within the repository. Your role is to develop new tools, applications, and examples that can aid in the learning process for other members.
+
+### Networker
+As a Networker, your role is to connect with other INC members and the broader tech community. You help spread the word about the repository, encourage collaboration, and bring in new resources and contributors.
+
 ## Who Can Contribute?
 
 Contributions are welcome from anyone passionate about enhancing the learning experience for INC members in the field of technology. Whether you have resources to add, tutorials to share, or repositories to recommend, your contributions will help enrich this repository and make it a valuable resource for all.
