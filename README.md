@@ -32,8 +32,8 @@ To contribute to the INC Tech Programmers Directory, simply fork projects linked
 <img src="assets/repo.png" width="500" />
 <br/>
   
-- 📗 [***aiko-chan-ai/discord.js-selfbot-v13***](https://github.com/aiko-chan-ai/discord.js-selfbot-v13) <br/>
-  An unofficial discord.js fork for creating selfbots
+- 📗 [***Java2DGame***]([https://github.com/aiko-chan-ai/discord.js-selfbot-v13](https://github.com/SchrodingerBear/JAVA-2D-Game-Project-ECLIPSE)) <br/>
+  JAVA Eclipse 2D game, based on Rysnow's Game Tutorial
 
 
 ## Getting Started
