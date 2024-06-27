@@ -32,7 +32,7 @@ To contribute to the INC Tech Programmers Directory, simply fork projects linked
 <img src="assets/repo.png" width="500" />
 <br/>
   
-- 📗 [***Java2DGame***]([[github.com/SchrodingerBear/JAVA-2D-Game-Project-ECLIPSE](https://github.com/SchrodingerBear/JAVA-2D-Game-Project-ECLIPSE)] <br/>
+- 📗 [***Java2DGame***]([github.com/SchrodingerBear/JAVA-2D-Game-Project-ECLIPSE](https://github.com/SchrodingerBear/JAVA-2D-Game-Project-ECLIPSE)]) <br/>
   JAVA Eclipse 2D game, based on Rysnow's Game Tutorial
 
 
